@@ -5,7 +5,7 @@
   "homepage": "https://grifo89.github.io/React_Calculator/",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "start": "next",
     "build":"next build",
     "deploy":"gh-pages -d build"
   },
